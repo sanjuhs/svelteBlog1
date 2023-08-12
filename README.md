@@ -2,6 +2,9 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
+This porject is just a basic test and nothing more. I will use this project as a basis for understanding and deploying cooler and better Svelte features and stuff.
+I hope that i can be building a quick Svelte blog , integrated with Prisma and perhaps even Pocketbase, will have to test it though.
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
